@@ -1,0 +1,7 @@
+git
+원격repo에 로컬repo를 올리려면 어떻게?
+만약 내가 daerin브랜치로 작업중이면 로컬 daerin내용을 원격daerin에 push한다음
+main에 darein작업하거 pull해서 가져오고 병합/패치 후 원격main에 올린다
+
+api
+메뉴판 원하는 걸 주문 
